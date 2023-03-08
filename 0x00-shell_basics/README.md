@@ -1,2 +1,1 @@
-Shell Basics:
-Shortcuts and Scripts
+Shell Basics + Key Commands
